@@ -1,0 +1,5 @@
+# PyTorch model checkpoints
+*.pt
+
+# NumPy compressed data
+*.npz
